@@ -9,6 +9,7 @@
 <p>👨‍💻-"Habilidades":</p>
 <p>🐍-Python = Básico-Intermediário ;)</p>
 <p>🐻-C++ = Básico (quase nada, mas já é alguma coisa :D)</p>
+<p>😬-C# = Só o básico </p>
 <p>OBS: Você deve ter percebido que no html sei quase nada também kkkk<p>
 
 ## É isso 😀👍
